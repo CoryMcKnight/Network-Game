@@ -1,0 +1,117 @@
+Initialize engine version: 5.5.0b5 (33fcd81d660e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 750M    (ID=0xfe9)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+    Driver:   10.18.13.5362
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\BloxEngine.dll (this message is harmless)
+Loading C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\BloxEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\plyLib.dll (this message is harmless)
+Loading C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\plyLib.dll into Unity Child Domain
+- Completed reload, in  0.196 seconds
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\System.dll (this message is harmless)
+desktop: 2880x1800 60Hz; virtual: 2880x1800 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+Initialize engine version: 5.5.0b5 (33fcd81d660e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 750M    (ID=0xfe9)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+    Driver:   10.18.13.5362
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\BloxEngine.dll (this message is harmless)
+Loading C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\BloxEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\plyLib.dll (this message is harmless)
+Loading C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\plyLib.dll into Unity Child Domain
+- Completed reload, in  0.238 seconds
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\System.dll (this message is harmless)
+desktop: 2880x1800 60Hz; virtual: 2880x1800 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 9.851286 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 5ff4 -> priority: 1 
+  Thread -> id: 35cc -> priority: 1 
+<RI> Initialized touch support.
+UnloadTime: 1.352971 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 5354 -> priority: 1 
+  Thread -> id: 36d8 -> priority: 1 
+Initialize engine version: 5.5.0b5 (33fcd81d660e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 750M    (ID=0xfe9)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+    Driver:   10.18.13.5362
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\BloxEngine.dll (this message is harmless)
+Loading C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\BloxEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\plyLib.dll (this message is harmless)
+Loading C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\plyLib.dll into Unity Child Domain
+- Completed reload, in  0.034 seconds
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Cory McKnight\Documents\Repo\NewNetwork\Builds\b6\Shoot_Data\Managed\System.dll (this message is harmless)
+desktop: 2880x1800 60Hz; virtual: 2880x1800 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.039929 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 5920 -> priority: 1 
+  Thread -> id: 210c -> priority: 1 

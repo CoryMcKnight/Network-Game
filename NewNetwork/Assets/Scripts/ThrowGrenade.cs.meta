@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ab705ece18afaa34cad373ed512e7cc5
+timeCreated: 1480199280
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - grenadePrefab: {fileID: 1688331845431748, guid: 079c5fcbd5d9bdc4a8cb6b740a149286,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

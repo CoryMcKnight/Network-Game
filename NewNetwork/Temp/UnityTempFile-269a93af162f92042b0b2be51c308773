@@ -1,0 +1,195 @@
+-debug
+-target:library
+-nowarn:0169
+-langversion:4
+-out:Temp/Assembly-CSharp-Editor.dll
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/Managed/UnityEngine.dll"
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/Managed/UnityEditor.dll"
+-r:Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+-r:Library/ScriptAssemblies/Assembly-CSharp.dll
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll"
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll"
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll"
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll"
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll"
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll"
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll"
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/Editor/UnityEditor.PlaymodeTestsRunner.dll"
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll"
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll"
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll"
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/UnityExtensions/Unity/UnityAnalytics/Editor/UnityEditor.Analytics.dll"
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Editor/UnityEditor.HoloLens.dll"
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll"
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll"
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll"
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll"
+-r:Assets/Movinarc/PackageUninstaller/Editor/SharpCompress.3.5.dll
+-r:Assets/plyoung/Blox/editor/BloxEditor.dll
+-r:Assets/plyoung/Blox/editor/HtmlAgilityPack.dll
+-r:Assets/plyoung/Blox/runtime/BloxEngine.dll
+-r:Assets/plyoung/plyLib/editor/ICSharpCode.SharpZipLib.dll
+-r:Assets/plyoung/plyLib/editor/plyLibEditor.dll
+-r:Assets/plyoung/plyLib/runtime/plyLib.dll
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/Managed/UnityEditor.Graphs.dll"
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll"
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll"
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.WSA.Extensions.dll"
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll"
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll"
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll"
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/Managed/Mono.Cecil.dll"
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll"
+-r:"C:/Program Files/Unity 5.5.0b5/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll"
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_5_0
+-define:UNITY_5_5
+-define:UNITY_5
+-define:UNITY_64
+-define:UNITY_ANALYTICS
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_GENERICS
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_SPRITERENDERER_FLIPPING
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_RAKNET
+-define:ENABLE_UNET
+-define:ENABLE_LZMA
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES_COLLAB
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_HUB
+-define:ENABLE_CLOUD_PROJECT_ID
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_METRICS
+-define:ENABLE_EDITOR_METRICS_CACHING
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:INCLUDE_PUBNUB
+-define:ENABLE_PLAYMODE_TESTS_RUNNER
+-define:ENABLE_SCRIPTING_NEW_CSHARP_COMPILER
+-define:UNITY_STANDALONE_WIN
+-define:UNITY_STANDALONE
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_EVENT_QUEUE
+-define:ENABLE_CLUSTERINPUT
+-define:ENABLE_VIDEO
+-define:ENABLE_VR
+-define:ENABLE_WEBSOCKET_HOST
+-define:ENABLE_MONO
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:UNITY_TEAM_LICENSE
+-define:CROSS_PLATFORM_INPUT
+-define:ICODE
+Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs
+Assets/Movinarc/PackageUninstaller/Editor/PUManager.cs
+Assets/Movinarc/PackageUninstaller/Editor/PUSelection.cs
+Assets/Movinarc/PackageUninstaller/Editor/TreeNode.cs
+Assets/Unitycoding/ICode/Scripts/Editor/ActionBrowser.cs
+Assets/Unitycoding/ICode/Scripts/Editor/ActionEditor.cs
+Assets/Unitycoding/ICode/Scripts/Editor/AssetCreator.cs
+Assets/Unitycoding/ICode/Scripts/Editor/BaseBrowser.cs
+Assets/Unitycoding/ICode/Scripts/Editor/BuiltInResourcesWindow.cs
+Assets/Unitycoding/ICode/Scripts/Editor/ConditionBrowser.cs
+Assets/Unitycoding/ICode/Scripts/Editor/EnableICodeScripting.cs
+Assets/Unitycoding/ICode/Scripts/Editor/ErrorChecker.cs
+Assets/Unitycoding/ICode/Scripts/Editor/ErrorEditor.cs
+Assets/Unitycoding/ICode/Scripts/Editor/FsmContent.cs
+Assets/Unitycoding/ICode/Scripts/Editor/FsmEditor.cs
+Assets/Unitycoding/ICode/Scripts/Editor/FsmEditorStyles.cs
+Assets/Unitycoding/ICode/Scripts/Editor/FsmError.cs
+Assets/Unitycoding/ICode/Scripts/Editor/FsmTool.cs
+Assets/Unitycoding/ICode/Scripts/Editor/GlobalVariablesEditor.cs
+Assets/Unitycoding/ICode/Scripts/Editor/HierarchyItem.cs
+Assets/Unitycoding/ICode/Scripts/Editor/ICodeBehaviourInspector.cs
+Assets/Unitycoding/ICode/Scripts/Editor/ICodeMasterInspector.cs
+Assets/Unitycoding/ICode/Scripts/Editor/ICodeMenu.cs
+Assets/Unitycoding/ICode/Scripts/Editor/ICodeTriggerInspector.cs
+Assets/Unitycoding/ICode/Scripts/Editor/ListExtensions.cs
+Assets/Unitycoding/ICode/Scripts/Editor/MainToolbar.cs
+Assets/Unitycoding/ICode/Scripts/Editor/MonoBehaviourConverter.cs
+Assets/Unitycoding/ICode/Scripts/Editor/NetworkTriggerEditor.cs
+Assets/Unitycoding/ICode/Scripts/Editor/NodeEditor.cs
+Assets/Unitycoding/ICode/Scripts/Editor/NodeInspector.cs
+Assets/Unitycoding/ICode/Scripts/Editor/OverrideVariablesInspector.cs
+Assets/Unitycoding/ICode/Scripts/Editor/Pasteboard.cs
+Assets/Unitycoding/ICode/Scripts/Editor/PreferencesEditor.cs
+Assets/Unitycoding/ICode/Scripts/Editor/PropertyDrawers/ComponentDrawer.cs
+Assets/Unitycoding/ICode/Scripts/Editor/PropertyDrawers/CustomDrawerAttribute.cs
+Assets/Unitycoding/ICode/Scripts/Editor/PropertyDrawers/FsmBoolDrawer.cs
+Assets/Unitycoding/ICode/Scripts/Editor/PropertyDrawers/FsmPropertyDrawer.cs
+Assets/Unitycoding/ICode/Scripts/Editor/PropertyDrawers/FsmVariableDrawer.cs
+Assets/Unitycoding/ICode/Scripts/Editor/PropertyDrawers/GUIDrawer.cs
+Assets/Unitycoding/ICode/Scripts/Editor/PropertyDrawers/HeaderDrawer.cs
+Assets/Unitycoding/ICode/Scripts/Editor/PropertyDrawers/IndentDrawer.cs
+Assets/Unitycoding/ICode/Scripts/Editor/PropertyDrawers/LayerDrawer.cs
+Assets/Unitycoding/ICode/Scripts/Editor/PropertyDrawers/MethodDrawer.cs
+Assets/Unitycoding/ICode/Scripts/Editor/PropertyDrawers/ParameterTypeDrawer.cs
+Assets/Unitycoding/ICode/Scripts/Editor/PropertyDrawers/PropertyDrawer.cs
+Assets/Unitycoding/ICode/Scripts/Editor/PropertyDrawers/TagDrawer.cs
+Assets/Unitycoding/ICode/Scripts/Editor/RectExtension.cs
+Assets/Unitycoding/ICode/Scripts/Editor/ReorderableList.cs
+Assets/Unitycoding/ICode/Scripts/Editor/ReorderableObjectList.cs
+Assets/Unitycoding/ICode/Scripts/Editor/ReviewReminder/ReviewReminderWindow.cs
+Assets/Unitycoding/ICode/Scripts/Editor/SetupShortcutsEditor.cs
+Assets/Unitycoding/ICode/Scripts/Editor/ShortcutEditor.cs
+Assets/Unitycoding/ICode/Scripts/Editor/StateInspector.cs
+Assets/Unitycoding/ICode/Scripts/Editor/StateMachineInspector.cs
+Assets/Unitycoding/ICode/Scripts/Editor/TransitionEditor.cs
+Assets/Unitycoding/ICode/Scripts/Editor/Utility/AttributesUtility.cs
+Assets/Unitycoding/ICode/Scripts/Editor/Utility/FsmEditorUtility.cs
+Assets/Unitycoding/ICode/Scripts/Editor/Utility/FsmGUIUtility.cs
+Assets/Unitycoding/ICode/Scripts/Editor/VariableEditor.cs
+Assets/Unitycoding/ICode/Scripts/Editor/WelcomeWindow.cs
+Assets/Unitycoding/ICode/Scripts/Editor/ZoomableArea.cs
+Assets/Unitycoding/ICode/Scripts/Integrations/Editor/IntegrationWindow.cs
+"Assets/Unitycoding/ICode/Scripts/Integrations/Photon Bolt/Scripts/Editor/BoltCallbackHandlerInspector.cs"
+"Assets/Unitycoding/ICode/Scripts/Integrations/Photon Unity Networking/Editor/PrefabCacheEditor.cs"
+Assets/Unitycoding/Shared/Scripts/Editor/AssetCreator.cs
+Assets/Unitycoding/Shared/Scripts/Editor/BaseSystemEditor.cs
+Assets/Unitycoding/Shared/Scripts/Editor/CollectionEditor.cs
+Assets/Unitycoding/Shared/Scripts/Editor/ICollectionEditor.cs
+Assets/Unitycoding/Shared/Scripts/Editor/Inspectors/CallbackHandlerInspector.cs
+Assets/Unitycoding/Shared/Scripts/Editor/Inspectors/PropertyBindingInspector.cs
+Assets/Unitycoding/Shared/Scripts/Editor/PlayerPrefsEditor.cs
+Assets/Unitycoding/Shared/Scripts/Editor/PropertyDrawers/HeaderLineDrawer.cs
+Assets/Unitycoding/Shared/Scripts/Editor/ReorderableObjectList.cs
+Assets/Unitycoding/Shared/Scripts/Editor/ScriptableObjectCollection.cs
+Assets/Unitycoding/Shared/Scripts/Editor/UnityEditorUtility.cs
+Assets/Unitycoding/Shared/Scripts/Editor/UtilityWindow.cs
+-r:"C:\Program Files\Unity 5.5.0b5\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.Runtime.Serialization.dll"
+-r:"C:\Program Files\Unity 5.5.0b5\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.Xml.Linq.dll"
+-r:"C:\Program Files\Unity 5.5.0b5\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\UnityScript.dll"
+-r:"C:\Program Files\Unity 5.5.0b5\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\UnityScript.Lang.dll"
+-r:"C:\Program Files\Unity 5.5.0b5\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\Boo.Lang.dll"
+-sdk:2.0
